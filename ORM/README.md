@@ -20,7 +20,7 @@ npm install
 
 Initialize Sequelize:
 ``` 
-squelize init
+sequelize init
 ``` 
 
 This command will create the following folders and files in your project:
