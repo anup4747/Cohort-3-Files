@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Sequelize generated files (for migrations, models, and config)
+config/config.json
+models/
+migrations/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# npm package lock
+package-lock.json
+
+# Optional: Ignore Sequelize database file if using SQLite
+*.sqlite
